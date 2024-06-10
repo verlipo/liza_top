@@ -1,0 +1,10 @@
+body {
+    background-image:url(https://i.pinimg.com/736x/ff/11/b9/ff11b99a5164d46076a28f3baf356b25.jpg);
+}
+.div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
